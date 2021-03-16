@@ -1,3 +1,4 @@
 - 👋 Hi, I’m a software engineer evolving with passion and dedication
+- ✅ Certified Laravel Developer
 - 👀 I’m interested in web and mobile development
 - 📫 You can reach me by oleksiy.petlyuk94@gmail.com
