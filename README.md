@@ -2,4 +2,3 @@
 - ✅ Certified Laravel Developer
 - 👀 I’m interested in web and mobile development
 - 👨‍💻 Currently working at [Smoothcomp](https://smoothcomp.com)
-- 📫 You can reach me by oleksiy.petlyuk94@gmail.com
