@@ -1,4 +1,4 @@
 - 👋 Hi, I’m a software engineer evolving with passion and dedication
 - ✅ Certified Laravel Developer
 - 👀 I’m interested in web and mobile development
-- 👨‍💻 Currently working at [Smoothcomp](https://smoothcomp.com)
+- 👨‍💻 Currently working at [Sigma Software](https://sigma.software)
